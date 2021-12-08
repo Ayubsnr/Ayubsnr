@@ -1,0 +1,1 @@
+<input type="button" onclick="location.href='rsume.html';" value="Go to Google" />
